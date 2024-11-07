@@ -1,0 +1,2 @@
+Prefix plugins/ScanBamParam/example/
+Plugin ScanBamParam inputfile bams/ outputfile SpliceGraphPred
